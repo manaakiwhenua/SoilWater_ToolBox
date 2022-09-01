@@ -1,0 +1,30 @@
+cd C:\JULIA\Julia-1.4.1\bin
+
+julia --check-bounds=no
+
+--math-mode=fast
+
+julia --math-mode=ieee
+
+set_zero_subnormals(false)
+
+workbench.colorCustomizations
+         
+
+https://code.visualstudio.com/docs/getstarted/themes
+
+			Customizing a Color Theme#
+You can customize your active color theme with the workbench.colorCustomizations and editor.tokenColorCustomizations user settings.
+
+To set the colors of VS Code UI elements such as list & trees (File Explorer, suggestions widget), diff editor, Activity Bar, notifications, scroll bar, split view, buttons and more, use workbench.colorCustomizations
+
+
+git filter-branch --index-filter 'git rm --cached --ignore-unmatch *.mov' -- --all
+rm -Rf .git/refs/original
+rm -Rf .git/logs/
+git gc --aggressive --prune=now
+
+
+--fast-math GCC option was far more effective in reducing the runtime then the --math-mode=fast Julia option. What do you think is the reason for that?
+
+Consolas, 'Courier New', monospace

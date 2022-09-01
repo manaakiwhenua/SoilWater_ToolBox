@@ -1,0 +1,9 @@
+name = "SoilWater-ToolBox"
+authors = ["Joseph Pollacco, Jesus-Fernandez Galvez"]
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+
+[compat]
+julia = "1.6.1"

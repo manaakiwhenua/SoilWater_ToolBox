@@ -1,0 +1,22 @@
+"1d>50%PAW": Ratio of simulated to observed Total number of simulated days above 50% of Paw  over the observation period.
+
+1d> 25%PAW" Ratio of simulated to observed Total number of simulated days above 25% of Paw  over the observation period simulation
+
+"Days<50%_PAW": Total number of days below 50% PAW over the period of observation  
+
+"Days<25%PAW": Total number of days below 25% PAW over the period of observation  
+
+"Days>FC" ": Total number of days below FC over the period of observation  
+
+"Days>1.1FC" Total number of days below 110% of FC over the period of observation  
+
+"7Daysperiod<50%PAW" Total number of 7 consecutive days period  below 50% of PAW over the period of observation  
+
+"7Daysperiod<25%PAW" Total number of 7 consecutive days period  below 50% of PAW over the period of observation  
+
+"7Daysperiod>FC" Total number of 7 consecutive days period  above FC over the period of observation  
+
+"7Daysperiod>1.1FC" Total number of 7 consecutive days period  above 110% of FC over the period of observation  
+
+ 
+Note: PAW and FC are calculated for each set of parameters and are not imposed by the observation. Asa  result it is expected that soil characteristics (FC and PAW) to be different between observed and simulated soils (hence working on signature).
